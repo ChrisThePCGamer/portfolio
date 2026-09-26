@@ -5,7 +5,9 @@
 I build machine-learning systems end to end, from scraping the data to serving the model behind an API.
 This repository holds my personal portfolio website.
 
-**View it:** download or clone the repo and open `index.html` in any modern browser.
+**Live site: https://christhepcgamer.github.io/portfolio/**
+
+You can also download the repo and open `index.html` in any modern browser.
 
 ---
 
