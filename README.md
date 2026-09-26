@@ -1,4 +1,4 @@
-# Christopher Pineda — Portfolio
+# Christopher Pineda · Portfolio
 
 **BS Computer Science · Angeles University Foundation · Open to internships (Software, Data & ML)**
 
@@ -11,7 +11,7 @@ You can also download the repo and open `index.html` in any modern browser.
 
 ---
 
-## Featured project — A.S.E.A. (SMS scam detection & triage)
+## Featured project: A.S.E.A. (SMS scam detection & triage)
 
 A capstone project; I was project lead of a 4-person team. Generic spam filters miss Philippine fraud messages because they're written in code-switched Tagalog–English. A.S.E.A. classifies SMS into **12 scam-intent classes** and shows why a message was flagged.
 
@@ -48,7 +48,7 @@ What I did:
 - **Data & databases:** SQL, ERD & normalization, Power BI, Python data analysis
 - **Networking:** Cisco Packet Tracer, TCP/IP addressing, LAN troubleshooting, RJ45 / Cat5 UTP
 - **Design & documentation:** Figma, wireframing, hi-fi prototyping, system flowcharts
-- **Everyday tools:** Git & GitHub, VS Code, MS Office
+- **Everyday tools:** Git & GitHub, VS Code, MS Office, Hermes Agent, Hermes Desktop, Claude Code, Claude Desktop, Notion AI, Gemini
 
 ## About this website
 
